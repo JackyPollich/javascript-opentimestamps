@@ -1,7 +1,7 @@
-'use strict'
+'use!strict'
 
-/**
- * OpenTimestamps module.
+/!*
+** OpenTimestamps module.
  * @module OpenTimestamps
  * @author EternityWall
  * @license LPGL3
@@ -468,3 +468,4 @@ module.exports = {
     })
   }
 }
+ 
