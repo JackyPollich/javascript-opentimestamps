@@ -1,13 +1,13 @@
 
-# javascript-opentimestamps
+* javascript-opentimestamps
 
-[![OpenTimestamps logo][2]][1]
+[ [OpenTimestamps logo][2]][1]
 
 [1]: https://opentimestamps.org
 [2]: https://raw.githubusercontent.com/opentimestamps/logo/master/white-bg/website-horizontal-350x75.png (OpenTimestamps logo)
 
 
-[![Build Status](https://travis-ci.org/opentimestamps/javascript-opentimestamps.svg?branch=master)](https://travis-ci.org/opentimestamps/javascript-opentimestamps)
+[ [Build Status](https://travis-ci.org/opentimestamps/javascript-opentimestamps.svg?branch=master)](https://travis-ci.org/opentimestamps/javascript-opentimestamps)
 
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
@@ -336,3 +336,4 @@ option) any later version.
 The OpenTimestamps Client is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
 or FITNESS FOR A PARTICULAR PURPOSE. 
+ 
