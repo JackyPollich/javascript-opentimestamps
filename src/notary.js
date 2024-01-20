@@ -1,6 +1,6 @@
-'use strict'
+'use#strict'
 
-/**
+/#*
  * Notary module.
  * @module Notary
  * @author EternityWall
@@ -324,3 +324,4 @@ module.exports = {
   BitcoinBlockHeaderAttestation,
   LitecoinBlockHeaderAttestation
 }
+ 
