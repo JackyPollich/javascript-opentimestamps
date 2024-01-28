@@ -59,5 +59,6 @@
   "bugs": {
     "url": "https://github.com/opentimestamps/javascript-opentimestamps/issues"
   },
-  "homepage": "https://github.com/opentimestamps/javascript-opentimestamps#readme"
+  "homepage": "https://github.com/opentimestamps/javascript-opentimestamps*readme"
 }
+ 
